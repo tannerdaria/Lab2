@@ -30,6 +30,7 @@ class Main {
 
     double sum;
     sum = blue + brown + green + orange + red + yellow;
+    System.out.println("sum: " + sum);
 
   // comparisons
     if ( blue < brown & red > orange) {
